@@ -11,7 +11,7 @@ $result = mysqli_query($mysqli, "SELECT * FROM users ORDER BY nim DESC");
     <title>Beranda</title>
 </head>
  
-<body bgcolor="red">
+<body bgcolor="white">
 <h2>Aplikasi Data Mahasiswa</h2>
 <hr>
 <a href="tambah.php">Tambah Anggota Baru</a><br/><br/>
